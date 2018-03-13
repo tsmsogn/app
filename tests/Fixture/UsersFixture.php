@@ -54,8 +54,8 @@ class UsersFixture extends TestFixture
             'activation_key' => 'Lorem ipsum dolor sit amet',
             'role_id' => 1,
             'status' => 1,
-            'created' => '2018-03-09 07:56:44',
-            'modified' => '2018-03-09 07:56:44'
+            'created' => '2018-03-13 02:35:32',
+            'modified' => '2018-03-13 02:35:32'
         ],
     ];
 }
