@@ -295,12 +295,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/funayaki/attachments.git",
-                "reference": "f320a43d95d9f5bc858037b806d1b8c8f455eb76"
+                "reference": "c53fa073bca9e3171b87100185b866157d2a1e2c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/funayaki/attachments/zipball/f320a43d95d9f5bc858037b806d1b8c8f455eb76",
-                "reference": "f320a43d95d9f5bc858037b806d1b8c8f455eb76",
+                "url": "https://api.github.com/repos/funayaki/attachments/zipball/c53fa073bca9e3171b87100185b866157d2a1e2c",
+                "reference": "c53fa073bca9e3171b87100185b866157d2a1e2c",
                 "shasum": ""
             },
             "require": {
@@ -330,7 +330,7 @@
                 "source": "https://github.com/funayaki/attachments/tree/master",
                 "issues": "https://github.com/funayaki/attachments/issues"
             },
-            "time": "2018-04-17T06:39:24+00:00"
+            "time": "2018-04-17T07:41:12+00:00"
         },
         {
             "name": "josegonzalez/cakephp-upload",
